@@ -1,0 +1,2 @@
+# STGIFTool
+handle gif
